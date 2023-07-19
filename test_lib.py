@@ -55,8 +55,3 @@ def test_p1_n1_n1():
 
 def test_n1_0_p1():
     assert QuadraticEquationSolver(-1, 0, 1).solve() == [-1, 1]
-
-
-# 2085616897729193912
-
-# 2153116897729199643
